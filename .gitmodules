@@ -1,3 +1,12 @@
 [submodule "ew495-fa2020-poster"]
 	path = ew495-fa2020-poster
 	url = git@github.com:usna-honorsfish-2021/ew495-fa2020-poster.git
+[submodule "ew495-fa2020-honorsfish"]
+	path = ew495-fa2020-honorsfish
+	url = git@github.com:usna-honorsfish-2021/ew495-fa2020-honorsfish.git
+[submodule "ew502-sp2020-klatt"]
+	path = ew502-sp2020-klatt
+	url = git@github.com:usna-honorsfish-2021/ew502-sp2020-klatt.git
+[submodule "ew502-sp2020-kenneally"]
+	path = ew502-sp2020-kenneally
+	url = git@github.com:usna-honorsfish-2021/ew502-sp2020-kenneally.git
